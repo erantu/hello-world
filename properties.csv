@@ -1,2 +1,5 @@
-prop1, val1, val2
-prop2, val21, val22
+environment, dev, verify, prod
+prop1, val1, val2, val3
+prop2, val1, val2, val3
+prop3, val1, , val3
+prop4, val1, val2, 
